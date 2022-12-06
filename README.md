@@ -1,9 +1,17 @@
-# Primeros-Pasos
-Estio es un cambio y no se como salir
+# MY FAV BOOK
+
+App de libros
 
 
+## Appendix
+
+Any additional information goes here
 
 
-ssshola esto es un cambio mas
+## 🚀 Sobre Nosotros
+Somos 3 estudiantes de Desarrollo de Aplicaciones Multiplataforma
 
-Uiguiente cambio 
+
+## Authors
+
+- [@octokatherine](https://www.github.com/octokatherine)
